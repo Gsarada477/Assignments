@@ -8,6 +8,7 @@ public class AddTest {
 	public void addTest()
 	{
 		System.out.println("add");
+		System.out.println("sarada");
 	}
 
 	
